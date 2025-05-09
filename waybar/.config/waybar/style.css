@@ -45,9 +45,9 @@ tooltip {
 }
 
 #workspaces button.active {
-	background-color: #fabd2f;
+	background-color: #98971a;
 	color: #282828;
-	box-shadow: inset 0 -3px #d79921;
+	box-shadow: inset 0 -3px #98971a;
 }
 
 #workspaces button.urgent {
